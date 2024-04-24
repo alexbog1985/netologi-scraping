@@ -6,10 +6,22 @@
         "city": "Москва"
     },
     {
-        "link": "Программист Python",
-        "salary": "от 50 000 ₽",
-        "company": "ООО Траектория",
+        "link": "Программист",
+        "salary": "от 250 000 ₽",
+        "company": "ООО ЧОП Центавр",
+        "city": "Москва"
+    },
+    {
+        "link": "Администратор Информационных Систем",
+        "salary": "Зарплата не указана",
+        "company": "Selectel",
         "city": "Санкт-Петербург"
+    },
+    {
+        "link": "Backend разработчик на Python / web программист в AI платформу",
+        "salary": "50 000 – 70 000 ₽",
+        "company": "VoxWeb Interactive",
+        "city": "Москва"
     },
     {
         "link": "Руководитель разработки Python",
@@ -18,16 +30,10 @@
         "city": "Москва"
     },
     {
-        "link": "Разработчик Python Django (Middle)",
-        "salary": "Зарплата не указана",
-        "company": "Электронная торговая площадка Газпромбанка",
-        "city": "Москва"
-    },
-    {
-        "link": "Middle Python разработчик",
-        "salary": "150 000 – 250 000 ₽",
-        "company": "Carbon Soft",
-        "city": "Москва"
+        "link": "Продакт Разработчик Python AI",
+        "salary": "1 900 – 2 700 $",
+        "company": "LATOKEN",
+        "city": "Санкт-Петербург"
     },
     {
         "link": "Fullstack developer (JS, Python)",
@@ -36,255 +42,15 @@
         "city": "Москва"
     },
     {
-        "link": "Ведущий Python-разработчик (Сениор)",
-        "salary": "Зарплата не указана",
-        "company": "билайн: ИТ, Data, Digital",
+        "link": "Full-stack разработчик",
+        "salary": "от 250 000 ₽",
+        "company": "ГК «Протос»",
         "city": "Москва"
     },
     {
         "link": "Python разработчик",
         "salary": "до 300 000 ₽",
         "company": "ООО АЙТИ.СПЕЙС",
-        "city": "Москва"
-    },
-    {
-        "link": "Python Developer",
-        "salary": "Зарплата не указана",
-        "company": "ООО Ок Софт",
-        "city": "Москва"
-    },
-    {
-        "link": "Backend Developer (Python)",
-        "salary": "Зарплата не указана",
-        "company": "HuntIT",
-        "city": "Санкт-Петербург"
-    },
-    {
-        "link": "Senior Python Developer",
-        "salary": "Зарплата не указана",
-        "company": "ГКУ Инфогород",
-        "city": "Москва"
-    },
-    {
-        "link": "Python TechLead",
-        "salary": "Зарплата не указана",
-        "company": "Синимекс",
-        "city": "Москва"
-    },
-    {
-        "link": "Middle Python developer",
-        "salary": "от 100 000 ₽",
-        "company": "ООО ЛИГРЕС",
-        "city": "Санкт-Петербург"
-    },
-    {
-        "link": "Python developer",
-        "salary": "Зарплата не указана",
-        "company": "NOMIA",
-        "city": "Москва"
-    },
-    {
-        "link": "Middle+ разработчик Python",
-        "salary": "от 250 000 ₽",
-        "company": "Сфера",
-        "city": "Москва"
-    },
-    {
-        "link": "Senior Python-разработчик",
-        "salary": "до 470 000 ₽",
-        "company": "Точка",
-        "city": "Москва"
-    },
-    {
-        "link": "Backend разработчик (Python)",
-        "salary": "Зарплата не указана",
-        "company": "SL Soft",
-        "city": "Москва"
-    },
-    {
-        "link": "Senior Python-разработчик",
-        "salary": "Зарплата не указана",
-        "company": "СберМаркет Разработка",
-        "city": "Москва"
-    },
-    {
-        "link": "Middle Backend разработчик (Python)",
-        "salary": "200 000 – 285 000 ₽",
-        "company": "Tevian (ООО Технологии видеоанализа)",
-        "city": "Москва"
-    },
-    {
-        "link": "Системный программист / разработчик Python",
-        "salary": "200 000 – 350 000 ₽",
-        "company": "Carbon Soft",
-        "city": "Москва"
-    },
-    {
-        "link": "Fullstack Python разработчик",
-        "salary": "от 120 000 ₽",
-        "company": "ООО Джаст Ду",
-        "city": "Москва"
-    },
-    {
-        "link": "Программист Python",
-        "salary": "от 50 000 ₽",
-        "company": "ООО Траектория",
-        "city": "Санкт-Петербург"
-    },
-    {
-        "link": "Руководитель разработки Python",
-        "salary": "Зарплата не указана",
-        "company": "Группа компаний Астра",
-        "city": "Москва"
-    },
-    {
-        "link": "Разработчик Python Django (Middle)",
-        "salary": "Зарплата не указана",
-        "company": "Электронная торговая площадка Газпромбанка",
-        "city": "Москва"
-    },
-    {
-        "link": "Middle Python разработчик",
-        "salary": "150 000 – 250 000 ₽",
-        "company": "Carbon Soft",
-        "city": "Москва"
-    },
-    {
-        "link": "Fullstack developer (JS, Python)",
-        "salary": "Зарплата не указана",
-        "company": "АО АСТ",
-        "city": "Москва"
-    },
-    {
-        "link": "Ведущий Python-разработчик (Сениор)",
-        "salary": "Зарплата не указана",
-        "company": "билайн: ИТ, Data, Digital",
-        "city": "Москва"
-    },
-    {
-        "link": "Python разработчик",
-        "salary": "до 300 000 ₽",
-        "company": "ООО АЙТИ.СПЕЙС",
-        "city": "Москва"
-    },
-    {
-        "link": "Python Developer",
-        "salary": "Зарплата не указана",
-        "company": "ООО Ок Софт",
-        "city": "Москва"
-    },
-    {
-        "link": "Backend Developer (Python)",
-        "salary": "Зарплата не указана",
-        "company": "HuntIT",
-        "city": "Санкт-Петербург"
-    },
-    {
-        "link": "Senior Python Developer",
-        "salary": "Зарплата не указана",
-        "company": "ГКУ Инфогород",
-        "city": "Москва"
-    },
-    {
-        "link": "Python TechLead",
-        "salary": "Зарплата не указана",
-        "company": "Синимекс",
-        "city": "Москва"
-    },
-    {
-        "link": "Middle Python developer",
-        "salary": "от 100 000 ₽",
-        "company": "ООО ЛИГРЕС",
-        "city": "Санкт-Петербург"
-    },
-    {
-        "link": "Python developer",
-        "salary": "Зарплата не указана",
-        "company": "NOMIA",
-        "city": "Москва"
-    },
-    {
-        "link": "Middle+ разработчик Python",
-        "salary": "от 250 000 ₽",
-        "company": "Сфера",
-        "city": "Москва"
-    },
-    {
-        "link": "Senior Python-разработчик",
-        "salary": "до 470 000 ₽",
-        "company": "Точка",
-        "city": "Москва"
-    },
-    {
-        "link": "Backend разработчик (Python)",
-        "salary": "Зарплата не указана",
-        "company": "SL Soft",
-        "city": "Москва"
-    },
-    {
-        "link": "Senior Python-разработчик",
-        "salary": "Зарплата не указана",
-        "company": "СберМаркет Разработка",
-        "city": "Москва"
-    },
-    {
-        "link": "Middle Backend разработчик (Python)",
-        "salary": "200 000 – 285 000 ₽",
-        "company": "Tevian (ООО Технологии видеоанализа)",
-        "city": "Москва"
-    },
-    {
-        "link": "Системный программист / разработчик Python",
-        "salary": "200 000 – 350 000 ₽",
-        "company": "Carbon Soft",
-        "city": "Москва"
-    },
-    {
-        "link": "Онлайн ассистент Python",
-        "salary": "от 30 000 ₽",
-        "company": "ЧУ ДО Московская школа программистов",
-        "city": "Москва"
-    },
-    {
-        "link": "Python developer",
-        "salary": "Зарплата не указана",
-        "company": "М.Видео-Эльдорадо. ИТ",
-        "city": "Москва"
-    },
-    {
-        "link": "Разработчик Python3 (middle)",
-        "salary": "Зарплата не указана",
-        "company": "АО Национальный Инновационный Центр",
-        "city": "Москва"
-    },
-    {
-        "link": "Python-разработчик (Middle+)",
-        "salary": "Зарплата не указана",
-        "company": "ООО Строительный Двор",
-        "city": "Москва"
-    },
-    {
-        "link": "Python Developer Middle+ /Senior",
-        "salary": "200 000 – 300 000 ₽",
-        "company": "АО Нейросети",
-        "city": "Москва"
-    },
-    {
-        "link": "Python-разработчик",
-        "salary": "Зарплата не указана",
-        "company": "Qualitica",
-        "city": "Москва"
-    },
-    {
-        "link": "Python Developer",
-        "salary": "Зарплата не указана",
-        "company": "TeamIdea (ООО ТИМИДЕЯ ГРУПП)",
-        "city": "Москва"
-    },
-    {
-        "link": "Ведущий разработчик Python / Senior Python Developer (Django+Celery)",
-        "salary": "Зарплата не указана",
-        "company": "ООО ПУЛЬС АЙТИМ",
         "city": "Москва"
     },
     {
@@ -294,58 +60,82 @@
         "city": "Москва"
     },
     {
+        "link": "Middle+ разработчик Python",
+        "salary": "от 250 000 ₽",
+        "company": "Сфера",
+        "city": "Москва"
+    },
+    {
+        "link": "Backend разработчик (Middle +)",
+        "salary": "150 000 – 220 000 ₽",
+        "company": "ООО АВК-Консалтинг",
+        "city": "Москва"
+    },
+    {
+        "link": "Data Science Specialist",
+        "salary": "Зарплата не указана",
+        "company": "ООО DM365",
+        "city": "Санкт-Петербург"
+    },
+    {
         "link": "Lead Python developer (Computer Vision)",
         "salary": "от 400 000 ₽",
         "company": "Ventra IT Solutions",
         "city": "Москва"
     },
     {
-        "link": "Senior Python разработчик/Эксперт в телефонии",
+        "link": "Ведущий NLP инженер",
         "salary": "Зарплата не указана",
-        "company": "VOXYS",
-        "city": "Москва"
-    },
-    {
-        "link": "Middle Python developer",
-        "salary": "150 000 – 200 000 ₽",
-        "company": "ООО Селфсек",
-        "city": "Москва"
-    },
-    {
-        "link": "Программист Python (fullstack developer)",
-        "salary": "от 250 000 ₽",
-        "company": "HR Consulting",
-        "city": "Москва"
-    },
-    {
-        "link": "Python-разработчик (Middle/Middle+)",
-        "salary": "Зарплата не указана",
-        "company": "ООО Строительный Двор",
-        "city": "Москва"
-    },
-    {
-        "link": "Senior Python/Django разработчик",
-        "salary": "3 200 – 4 000 $",
-        "company": "WebGears Services",
-        "city": "Москва"
-    },
-    {
-        "link": "Python Backend developer",
-        "salary": "до 195 000 ₽",
-        "company": "ООО Октопустех",
-        "city": "Москва"
-    },
-    {
-        "link": "Backend Python-developer (Django)",
-        "salary": "до 280 000 ₽",
-        "company": "evrone.ru",
+        "company": "СИНЕРГИЯ",
         "city": "Москва"
     },
     {
         "link": "Программист Python",
-        "salary": "от 200 000 ₽",
-        "company": "ООО В Кадре",
+        "salary": "от 50 000 ₽",
+        "company": "ООО Траектория",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "Разработчик Python Django (Middle)",
+        "salary": "Зарплата не указана",
+        "company": "Электронная торговая площадка Газпромбанка",
         "city": "Москва"
+    },
+    {
+        "link": "Senior Python-разработчик",
+        "salary": "Зарплата не указана",
+        "company": "СберМаркет Разработка",
+        "city": "Москва"
+    },
+    {
+        "link": "Ведущий Python-разработчик (Сениор)",
+        "salary": "Зарплата не указана",
+        "company": "билайн: ИТ, Data, Digital",
+        "city": "Москва"
+    },
+    {
+        "link": "Разработчик Python3 (middle)",
+        "salary": "Зарплата не указана",
+        "company": "АО Национальный Инновационный Центр",
+        "city": "Москва"
+    },
+    {
+        "link": "Fullstack Python разработчик",
+        "salary": "от 120 000 ₽",
+        "company": "ООО Джаст Ду",
+        "city": "Москва"
+    },
+    {
+        "link": "Программист",
+        "salary": "от 250 000 ₽",
+        "company": "ООО ЧОП Центавр",
+        "city": "Москва"
+    },
+    {
+        "link": "Администратор Информационных Систем",
+        "salary": "Зарплата не указана",
+        "company": "Selectel",
+        "city": "Санкт-Петербург"
     },
     {
         "link": "Backend разработчик на Python / web программист в AI платформу",
@@ -354,9 +144,99 @@
         "city": "Москва"
     },
     {
-        "link": "Python Developer (Tools)",
+        "link": "Руководитель разработки Python",
         "salary": "Зарплата не указана",
-        "company": "Lesta Games",
+        "company": "Группа компаний Астра",
+        "city": "Москва"
+    },
+    {
+        "link": "Продакт Разработчик Python AI",
+        "salary": "1 900 – 2 700 $",
+        "company": "LATOKEN",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "Fullstack developer (JS, Python)",
+        "salary": "Зарплата не указана",
+        "company": "АО АСТ",
+        "city": "Москва"
+    },
+    {
+        "link": "Full-stack разработчик",
+        "salary": "от 250 000 ₽",
+        "company": "ГК «Протос»",
+        "city": "Москва"
+    },
+    {
+        "link": "Python разработчик",
+        "salary": "до 300 000 ₽",
+        "company": "ООО АЙТИ.СПЕЙС",
+        "city": "Москва"
+    },
+    {
+        "link": "Backend Developer (Python/FAST API)",
+        "salary": "Зарплата не указана",
+        "company": "MoneyCat",
+        "city": "Москва"
+    },
+    {
+        "link": "Middle+ разработчик Python",
+        "salary": "от 250 000 ₽",
+        "company": "Сфера",
+        "city": "Москва"
+    },
+    {
+        "link": "Backend разработчик (Middle +)",
+        "salary": "150 000 – 220 000 ₽",
+        "company": "ООО АВК-Консалтинг",
+        "city": "Москва"
+    },
+    {
+        "link": "Data Science Specialist",
+        "salary": "Зарплата не указана",
+        "company": "ООО DM365",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "Lead Python developer (Computer Vision)",
+        "salary": "от 400 000 ₽",
+        "company": "Ventra IT Solutions",
+        "city": "Москва"
+    },
+    {
+        "link": "Ведущий NLP инженер",
+        "salary": "Зарплата не указана",
+        "company": "СИНЕРГИЯ",
+        "city": "Москва"
+    },
+    {
+        "link": "Программист Python",
+        "salary": "от 50 000 ₽",
+        "company": "ООО Траектория",
+        "city": "Санкт-Петербург"
+    },
+    {
+        "link": "Разработчик Python Django (Middle)",
+        "salary": "Зарплата не указана",
+        "company": "Электронная торговая площадка Газпромбанка",
+        "city": "Москва"
+    },
+    {
+        "link": "Senior Python-разработчик",
+        "salary": "Зарплата не указана",
+        "company": "СберМаркет Разработка",
+        "city": "Москва"
+    },
+    {
+        "link": "Ведущий Python-разработчик (Сениор)",
+        "salary": "Зарплата не указана",
+        "company": "билайн: ИТ, Data, Digital",
+        "city": "Москва"
+    },
+    {
+        "link": "Разработчик Python3 (middle)",
+        "salary": "Зарплата не указана",
+        "company": "АО Национальный Инновационный Центр",
         "city": "Москва"
     }
 ]

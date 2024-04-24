@@ -15,7 +15,7 @@ params = {'L_save_area': 'true',
           'salary': '',
           'currency_code': 'USD',
           'experience': 'doesNotMatter',
-          'order_by': 'relevance',
+          'order_by': 'publication_time',
           'search_period': '0',
            'items_on_page': '20',
           'descriptionsearch_field': 'description',
@@ -23,11 +23,10 @@ params = {'L_save_area': 'true',
           }
 
 
-def get_pages(pages=3):
+def get_pages(pages=2):
     div_tags_lst = []
     for page in range(pages):
         response = requests.get('https://spb.hh.ru/search/vacancy', headers=header, params=params)
-        print(response.url)
         if response.status_code == 200:
             bs = BeautifulSoup(response.text, 'lxml')
             params['page'] = page
@@ -50,7 +49,6 @@ def scrap(div_tags_lst):
             pre_city = tag.find('div', attrs={'data-qa': 'vacancy-serp__vacancy-address'}).text
             city = pre_city.split(',')[0]
             res.append({'link': link, 'salary': salary.replace(u'\u202f', ' '), 'company': company.replace(u'\xa0', ' '), 'city': city})
-            print(res)
     print(len(res))
     return res
 
