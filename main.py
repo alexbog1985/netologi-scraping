@@ -4,7 +4,7 @@ import requests
 from fake_headers import Headers
 
 header = Headers(browser="chrome",
-                 os="win",
+                 os="mac",
                  headers=True,
                  ).generate()
 
@@ -25,18 +25,22 @@ params = {'L_save_area': 'true',
 
 
 response = requests.get('https://spb.hh.ru/search/vacancy', headers=header, params=params)
+if response.status_code == 200:
 
-soup = BeautifulSoup(response.text, 'lxml')
-div_tags = soup.find_all('div', class_='serp-item serp-item_link serp-item-redesign')
-res = []
-for tag in div_tags:
-    link = tag.find('a', class_='bloko-link')
-    salary = tag.find('span', class_='bloko-text') # надо доделать!!!
-    print(salary.text if '$' in salary.text else '')
-    print(link['href'])
-    res.append(tag.text)
-print(len(res))
+    soup = BeautifulSoup(response.text, 'lxml')
+    print(soup.find('h1'))
+    div_tags = soup.find_all('div', class_='vacancy-serp-item-body')
+    res = []
+    for tag in div_tags:
+        link = tag.find('a', class_='bloko-link')
+        salary = tag.find('span', class_='bloko-header-section-2')
+        print(salary.text if salary else '')
+        print(link['href'])
+        res.append(tag.text)
+    print(len(res))
 
+else:
+    print(f'Ошибка соединения: {response.status_code}')
 
 if __name__ == '__main__':
     pass
